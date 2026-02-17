@@ -1,0 +1,36 @@
+# APIキー（絶対にコミットしない）
+config/api_keys.yaml
+
+# キャッシュ
+cache/*/
+
+# 出力結果
+outputs/*/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# 仮想環境
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# テスト用スクリプト
+test.py
+test_*.py
+
+# OS
+.DS_Store
+Thumbs.db

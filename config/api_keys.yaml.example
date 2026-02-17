@@ -1,0 +1,14 @@
+# ===========================================
+# APIキー設定（サンプル）
+# ===========================================
+# このファイルをコピーして api_keys.yaml を作成してください:
+#   cp api_keys.yaml.example api_keys.yaml
+#
+# ※ api_keys.yaml は .gitignore に含まれているため、
+#   リポジトリにコミットされません。
+
+google_custom_search:
+  api_key: "YOUR_API_KEY_HERE"
+  search_engine_id: "YOUR_SEARCH_ENGINE_ID_HERE"
+
+# Google Suggest、pytrendsは認証不要
