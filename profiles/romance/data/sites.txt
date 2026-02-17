@@ -1,6 +1,0 @@
-# 監視対象サイト（スナイパーモード用）
-# 1行に1ドメイン、#で始まる行はコメント
-komachi.yomiuri.co.jp
-detail.chiebukuro.yahoo.co.jp
-girlschannel.net
-oshiete.goo.ne.jp
