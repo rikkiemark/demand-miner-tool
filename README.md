@@ -379,6 +379,8 @@ C,ダイエット 食事 メニュー,156,定番ルート（スマート再帰�
 | キャッシュ機能 | 稼働中 |
 | ランク判定（Custom Search API） | API 申請中 |
 
+> **Note:** Current status: Applying for Google Custom Search JSON API access for full ranking features.
+
 ---
 
 ## ライセンス
